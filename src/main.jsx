@@ -174,7 +174,7 @@ function Hero() {
           <div className="portrait-info">
             <span>Computer Science Engineering</span>
             <h2>Full Stack Developer</h2>
-            <p>React, Node.js, REST APIs, Machine Learning, and NLP.</p>
+            <p>React, Node.js, Machine Learning, and NLP.</p>
           </div>
           <div className="floating-skill skill-one">React</div>
           <div className="floating-skill skill-two">NLP</div>
